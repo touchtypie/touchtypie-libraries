@@ -1,1 +1,1 @@
-https://touchtypie.github.io/touchtypie-library/collections/keyboard-qwerty.txt
+https://touchtypie.github.io/touchtypie-libraries/collections/keyboard-qwerty.txt
