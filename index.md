@@ -4,6 +4,7 @@
 
 | Collections | 
 |---|
+| [https://touchtypie.github.io/touchtypie-libraries/collections/bible.txt](https://touchtypie.github.io/touchtypie-libraries/collections/bible.txt) |
 | [https://touchtypie.github.io/touchtypie-libraries/collections/keyboard-qwerty.txt](https://touchtypie.github.io/touchtypie-libraries/collections/keyboard-qwerty.txt) |
 
 | Books | 
