@@ -4,12 +4,6 @@
     "version": "2.0.0",
     "tasks": [
         {
-            "label": "Update",
-            "type": "shell",
-            "command": "git checkout master  -- books/ collections/ libraries/",
-            "group": "build"
-        },
-        {
             "label": "Generate",
             "type": "shell",
             "command": "./generate/generate.sh ",
