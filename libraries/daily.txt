@@ -1,1 +1,2 @@
 https://touchtypie.github.io/touchtypie-libraries/collections/keyboard-qwerty.txt
+https://leojonathanoh.github.io/typie-library/collections/bible-YLT.txt
