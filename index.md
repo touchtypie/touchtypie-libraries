@@ -9,7 +9,7 @@
 
 | Books | 
 |---|
+| [https://touchtypie.github.io/touchtypie-libraries/books/keyboard-qwerty-letters.txt](https://touchtypie.github.io/touchtypie-libraries/books/keyboard-qwerty-letters.txt) |
 | [https://touchtypie.github.io/touchtypie-libraries/books/keyboard-qwerty-numbers.txt](https://touchtypie.github.io/touchtypie-libraries/books/keyboard-qwerty-numbers.txt) |
 | [https://touchtypie.github.io/touchtypie-libraries/books/keyboard-qwerty-symbols.txt](https://touchtypie.github.io/touchtypie-libraries/books/keyboard-qwerty-symbols.txt) |
-| [https://touchtypie.github.io/touchtypie-libraries/books/keyboard-qwerty-letters.txt](https://touchtypie.github.io/touchtypie-libraries/books/keyboard-qwerty-letters.txt) |
 
