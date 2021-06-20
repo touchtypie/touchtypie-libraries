@@ -1,1 +1,1 @@
-https://leojonathanoh.github.io/typie-library/collections/bible-KJV.txt
+https://leojonathanoh.github.io/touchtypie-library/collections/bible-KJV.txt
