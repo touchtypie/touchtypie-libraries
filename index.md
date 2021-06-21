@@ -1,6 +1,6 @@
 | Libraries | 
 |---|
-| [https://touchtypie.github.io/touchtypie-libraries/libraries/bible.txt](https://touchtypie.github.io/touchtypie-libraries/libraries/bible.txt) |
+| [https://touchtypie.github.io/touchtypie-libraries/libraries/bibles.txt](https://touchtypie.github.io/touchtypie-libraries/libraries/bibles.txt) |
 | [https://touchtypie.github.io/touchtypie-libraries/libraries/daily.txt](https://touchtypie.github.io/touchtypie-libraries/libraries/daily.txt) |
 | [https://touchtypie.github.io/touchtypie-libraries/libraries/nature.txt](https://touchtypie.github.io/touchtypie-libraries/libraries/nature.txt) |
 
