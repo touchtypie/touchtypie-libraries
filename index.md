@@ -23,6 +23,7 @@
 | [https://touchtypie.github.io/touchtypie-libraries/books/cat-ragdoll.txt](https://touchtypie.github.io/touchtypie-libraries/books/cat-ragdoll.txt) |
 | [https://touchtypie.github.io/touchtypie-libraries/books/dog-cocker-spaniel.txt](https://touchtypie.github.io/touchtypie-libraries/books/dog-cocker-spaniel.txt) |
 | [https://touchtypie.github.io/touchtypie-libraries/books/dog-poodle.txt](https://touchtypie.github.io/touchtypie-libraries/books/dog-poodle.txt) |
+| [https://touchtypie.github.io/touchtypie-libraries/books/english-words-alpha.txt](https://touchtypie.github.io/touchtypie-libraries/books/english-words-alpha.txt) |
 | [https://touchtypie.github.io/touchtypie-libraries/books/keyboard-qwerty-letters.txt](https://touchtypie.github.io/touchtypie-libraries/books/keyboard-qwerty-letters.txt) |
 | [https://touchtypie.github.io/touchtypie-libraries/books/keyboard-qwerty-numbers.txt](https://touchtypie.github.io/touchtypie-libraries/books/keyboard-qwerty-numbers.txt) |
 | [https://touchtypie.github.io/touchtypie-libraries/books/keyboard-qwerty-symbols.txt](https://touchtypie.github.io/touchtypie-libraries/books/keyboard-qwerty-symbols.txt) |
