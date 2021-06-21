@@ -22,6 +22,7 @@ $MD_TABLE_TITLE
 $MD_TABLE_ALIGNER
 $MD_TABLE_CONTENT
 
+
 EOF
 
 MD_TABLE_TITLE='| Collections | '
@@ -37,6 +38,7 @@ cat - >> index.md <<EOF
 $MD_TABLE_TITLE
 $MD_TABLE_ALIGNER
 $MD_TABLE_CONTENT
+
 
 EOF
 
@@ -54,5 +56,6 @@ cat - >> index.md <<EOF
 $MD_TABLE_TITLE
 $MD_TABLE_ALIGNER
 $MD_TABLE_CONTENT
+
 
 EOF
