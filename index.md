@@ -17,7 +17,7 @@
 | [https://touchtypie.github.io/touchtypie-libraries/collections/dog.txt](https://touchtypie.github.io/touchtypie-libraries/collections/dog.txt) | [Play now](https://play.touchtypie.com?book_collection_ids=https://touchtypie.github.io/touchtypie-libraries/collections/dog.txt) |
 | [https://touchtypie.github.io/touchtypie-libraries/collections/english-words.txt](https://touchtypie.github.io/touchtypie-libraries/collections/english-words.txt) | [Play now](https://play.touchtypie.com?book_collection_ids=https://touchtypie.github.io/touchtypie-libraries/collections/english-words.txt) |
 | [https://touchtypie.github.io/touchtypie-libraries/collections/keyboard-qwerty.txt](https://touchtypie.github.io/touchtypie-libraries/collections/keyboard-qwerty.txt) | [Play now](https://play.touchtypie.com?book_collection_ids=https://touchtypie.github.io/touchtypie-libraries/collections/keyboard-qwerty.txt) |
-| [https://touchtypie.github.io/touchtypie-libraries/collections/plants.txt](https://touchtypie.github.io/touchtypie-libraries/collections/plants.txt) | [Play now](https://play.touchtypie.com?book_collection_ids=https://touchtypie.github.io/touchtypie-libraries/collections/plants.txt) |r
+| [https://touchtypie.github.io/touchtypie-libraries/collections/plants.txt](https://touchtypie.github.io/touchtypie-libraries/collections/plants.txt) | [Play now](https://play.touchtypie.com?book_collection_ids=https://touchtypie.github.io/touchtypie-libraries/collections/plants.txt) |
 
 
 | Books | Practice | 
