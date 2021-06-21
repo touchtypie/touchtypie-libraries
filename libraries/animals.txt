@@ -1,2 +1,2 @@
-https://touchtypie.github.io/touchtypie-libraries/libraries/dog.txt
-https://touchtypie.github.io/touchtypie-libraries/libraries/cat.txt
+https://touchtypie.github.io/touchtypie-libraries/collections/dog.txt
+https://touchtypie.github.io/touchtypie-libraries/collections/cat.txt
