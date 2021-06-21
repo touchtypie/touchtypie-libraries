@@ -13,7 +13,7 @@ MD_TABLE_ALIGNER='|---|---|'
 MD_TABLE_CONTENT=$(
     find libraries/ -type f | sort -h | while read -r l; do
         link="https://$NAMESPACE.github.io/$REPOSITORY_NAME/$l"
-        echo "| [$link]($link) | [Play now](https://play.touchtypie.com?playmode=repeatone&book_library_ids=$link) |";
+        echo "| [$link]($link) | [Play now](https://play.touchtypie.com?book_library_ids=$link) |";
     done
 )
 
@@ -30,9 +30,9 @@ MD_TABLE_ALIGNER='|---|---|'
 MD_TABLE_CONTENT=$(
     find collections/ -type f | sort -h | while read -r l; do
         link="https://$NAMESPACE.github.io/$REPOSITORY_NAME/$l"
-        echo "| [$link]($link) | [Play now](https://play.touchtypie.com?playmode=repeatone&book_collection_ids=$link) |";
+        echo "| [$link]($link) | [Play now](https://play.touchtypie.com?book_collection_ids=$link) |";
     done
-)
+)r
 
 cat - >> index.md <<EOF
 $MD_TABLE_TITLE
