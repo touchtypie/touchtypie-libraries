@@ -32,7 +32,7 @@ MD_TABLE_CONTENT=$(
         link="https://$NAMESPACE.github.io/$REPOSITORY_NAME/$l"
         echo "| [$link]($link) | [Play now](https://play.touchtypie.com?book_collection_ids=$link) |";
     done
-)r
+)
 
 cat - >> index.md <<EOF
 $MD_TABLE_TITLE
